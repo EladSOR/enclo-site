@@ -26,6 +26,32 @@
     }
   },
   {
+    "slug": "hims",
+    "name": "Hims",
+    "category": "enclomiphene",
+    "priceFromMonthly": 99,
+    "priceLabel": "From $99/mo",
+    "onboardingType": "standard",
+    "shortLabel": "Enclomiphene program",
+    "shortDescription": "Structured onboarding process",
+    "overview": "Hims provides a structured testosterone-related program with a standardized onboarding flow and provider evaluation.",
+    "notes": [
+      "Pricing may vary depending on plan length and selection.",
+      "Program typically includes provider review before treatment.",
+      "Users should verify all details directly with the provider before making decisions."
+    ],
+    "affiliateUrl": "https://www.hims.com/",
+    "sourceUrls": ["https://www.hims.com/testosterone/enclomiphene"],
+    "lastReviewed": "2026-03-01",
+    "seoTitle": "Hims Enclomiphene & Testosterone Program | CompareT",
+    "seoDescription": "Compare pricing, onboarding, and details for Hims testosterone-related program.",
+    "why": {
+      "onboarding": "Structured onboarding process",
+      "pricing": "Monthly subscription with plan options",
+      "positioning": "Program includes provider evaluation before starting treatment"
+    }
+  },
+  {
     "slug": "maximus-tribe",
     "name": "Maximus Tribe",
     "category": "enclomiphene",
