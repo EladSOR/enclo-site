@@ -1,35 +1,80 @@
 [
   {
-    "name": "TTime",
     "slug": "ttime",
-    "price_monthly": 69,
-    "price_retail": 199,
-    "protocol": "Oral enclomiphene daily — dosing determined at consultation",
-    "labs_required": "Baseline bloodwork required before start",
-    "delivery": "Mail-order pharmacy, ships nationwide",
-    "affiliate_link": "https://ttime.men/",
-    "notes": "Telemedicine-based. Ongoing provider support included with subscription."
+    "name": "TTime",
+    "category": "enclomiphene",
+    "priceFromMonthly": 69,
+    "priceLabel": "From $69/mo",
+    "onboardingType": "faster-start",
+    "shortLabel": "Enclomiphene program",
+    "shortDescription": "Faster start process",
+    "overview": "TTime presents a streamlined approach designed to reduce initial friction before program review.",
+    "notes": [
+      "Program details may vary based on consultation, eligibility, and location.",
+      "Pricing and structure are based on publicly available information and may change over time.",
+      "Users should verify all details directly with the provider before making decisions."
+    ],
+    "affiliateUrl": "https://ttime.men/",
+    "sourceUrls": ["https://ttime.men/"],
+    "lastReviewed": "2026-03-01",
+    "seoTitle": "TTime Enclomiphene & Testosterone Program | CompareT",
+    "seoDescription": "Compare pricing, onboarding, and details for TTime's testosterone-related program.",
+    "why": {
+      "onboarding": "Faster start process",
+      "pricing": "Monthly subscription",
+      "positioning": "Designed for quicker access to an enclomiphene program"
+    }
   },
   {
-    "name": "Maximus Tribe",
     "slug": "maximus-tribe",
-    "price_monthly": 129,
-    "price_retail": 279,
-    "protocol": "12.5 mg oral enclomiphene daily",
-    "labs_required": "At-home lab kit shipped with first order",
-    "delivery": "Direct mail, ships to all 50 states",
-    "affiliate_link": "https://maximustribe.com",
-    "notes": "Includes app-based progress tracking and community access."
+    "name": "Maximus Tribe",
+    "category": "enclomiphene",
+    "priceFromMonthly": 129,
+    "priceLabel": "From $129/mo",
+    "onboardingType": "standard",
+    "shortLabel": "Enclomiphene program",
+    "shortDescription": "Standard onboarding process",
+    "overview": "Maximus Tribe follows a more structured onboarding approach with a consistent program format.",
+    "notes": [
+      "Program details may vary based on consultation, eligibility, and location.",
+      "Pricing and structure are based on publicly available information and may change over time.",
+      "Users should verify all details directly with the provider before making decisions."
+    ],
+    "affiliateUrl": "https://maximustribe.com",
+    "sourceUrls": ["https://maximustribe.com"],
+    "lastReviewed": "2026-03-01",
+    "seoTitle": "Maximus Tribe Enclomiphene & Testosterone Program | CompareT",
+    "seoDescription": "Compare pricing, onboarding, and details for Maximus Tribe's testosterone-related program.",
+    "why": {
+      "onboarding": "Standard onboarding process",
+      "pricing": "Monthly subscription",
+      "positioning": "More structured program approach"
+    }
   },
   {
-    "name": "Hone Health",
     "slug": "hone-health",
-    "price_monthly": 149,
-    "price_retail": 329,
-    "protocol": "Variable oral enclomiphene; dosing set by prescribing physician",
-    "labs_required": "Full hormone panel plus metabolic workup",
-    "delivery": "Specialty pharmacy, 2–5 business days after approval",
-    "affiliate_link": "https://honehealth.com",
-    "notes": "Broad evaluation covers multiple hormone markers."
+    "name": "Hone Health",
+    "category": "enclomiphene",
+    "priceFromMonthly": 149,
+    "priceLabel": "From $149/mo",
+    "onboardingType": "standard",
+    "shortLabel": "Enclomiphene program",
+    "shortDescription": "Standard onboarding process",
+    "overview": "Hone Health uses a structured onboarding flow with provider evaluation before next steps.",
+    "notes": [
+      "Program details may vary based on consultation, eligibility, and location.",
+      "Pricing and structure are based on publicly available information and may change over time.",
+      "Users should verify all details directly with the provider before making decisions."
+    ],
+    "affiliateUrl": "https://honehealth.com",
+    "sourceUrls": ["https://honehealth.com"],
+    "lastReviewed": "2026-03-01",
+    "seoTitle": "Hone Health Enclomiphene & Testosterone Program | CompareT",
+    "seoDescription": "Compare pricing, onboarding, and details for Hone Health's testosterone-related program.",
+    "why": {
+      "onboarding": "Standard onboarding process",
+      "pricing": "Monthly subscription",
+      "positioning": "Physician-guided program"
+    }
   }
 ]

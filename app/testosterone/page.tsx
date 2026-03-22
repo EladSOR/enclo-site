@@ -36,8 +36,7 @@ export default function TestosteronePage() {
         </h1>
         <p className="text-base text-[#78716c] leading-relaxed">
           Select a category below to view a side-by-side comparison of
-          providers, protocols, and pricing. All information is purely
-          informational.
+          providers and pricing. All information is purely informational.
         </p>
       </div>
 
